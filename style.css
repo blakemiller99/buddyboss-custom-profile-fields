@@ -1,0 +1,18 @@
+/* BB Display Custom Fields in Directory List Feed */
+
+.buddypress-wrap .members-list li .member-name {
+	margin-bottom:0 !important;
+}
+
+.member-custom-field-company-directory {
+	font-size:0.75em;
+	color:#000000;
+	line-height:1.0;
+}
+
+.member-custom-field-title-directory {
+	font-size:0.65em;
+	color:#333333;
+	line-height:1.0;
+	font-style:italic;
+}
